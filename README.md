@@ -1,4 +1,4 @@
-# 📱 PedidosRestaurante
+# PedidosRestaurante
 
 Aplicación educativa desarrollada en Android Studio que simula el cálculo de pedidos en un restaurante chileno. Permite seleccionar platos típicos, ingresar cantidades, visualizar subtotales y aplicar una propina opcional.
 
